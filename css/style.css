@@ -206,6 +206,7 @@ img {
 
 .standarts-item {
   width: calc((100% - 72px) / 4);
+
   flex-grow: 0;
 }
 
