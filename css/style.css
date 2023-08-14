@@ -329,15 +329,13 @@ img {
 .filter-item:focus {
   background: var(--action-color);
   color: #ffffff;
+  border: 1px solid transparent;
 }
 
 /* Gallery */
-.gallery-item:hover,
-.gallery-item:focus {
-  border: 1px solid transparent;
-}
 .gallery {
   padding-top: 96px;
+  padding-bottom: 120px;
 }
 
 .gallery-content {
