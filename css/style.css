@@ -57,7 +57,6 @@ img {
 }
 
 .section {
-  padding-top: 120px;
   padding-bottom: 120px;
 }
 
@@ -201,6 +200,11 @@ img {
 }
 
 /* Company standarts*/
+
+.section-standatrs {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 
 .standarts-list {
   display: flex;
